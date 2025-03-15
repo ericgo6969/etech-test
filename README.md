@@ -22,6 +22,7 @@ TaildwindCSS<br/>
 | [React Modal](https://www.npmjs.com/package/react-modal)    | `react-modal`   | Accessible modal dialog component for React.JS                                                               |
 | [GSAP](https://gsap.com/docs/v3/)                           | `gsap`          | GSAP allows you to effortlessly animate anything JS can touch.                                               |
 | [React Media](https://www.npmjs.com/package/react-media)    | `react-media`   | Aa CSS media query component for React.                                                                      |
+| [next-intl](https://next-intl.dev/docs/getting-started)     | `next-intl`     | Support multiple languages, with your app code becoming simpler instead of more complex.                     |
 
 ## Getting Started
 
