@@ -131,7 +131,10 @@ export default function About() {
     }, []);
 
     return (
-        <section className="flex justify-center items-center flex-col">
+        <section
+            id="about-section"
+            className="flex justify-center items-center flex-col"
+        >
             <svg id="motionPath" className="hidden" viewBox="-20 0 557 190">
                 <path id="path" fill="black" d="M 500 100 Q 500 350 300 200" />
             </svg>
