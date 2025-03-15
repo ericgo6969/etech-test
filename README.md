@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NextJS Arenacheb.cz - OPENDEV.IO TEST
+
+A responsive website with minimal dependencies using lightning-fast NextJS, and the utility-first CSS framework, Tailwind CSS.
+
+## Requirements
+
+Perfect Pixel<br/>
+Responsive<br/>
+TaildwindCSS<br/>
+
+## Features
+
+-   [NextJS](https://nextjs.org/docs): a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
+-   [Tailwind CSS](https://tailwindcss.com/docs/guides/vite/): Take advantage of Tailwind CSS's utility-first approach to effortlessly style your components and create a clean and consistent user interface.
+
+## Libraries Used:
+
+| Feature                                                     | Package         | Benefits                                                                                                     |
+| ----------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------ |
+| [svgr/webpack](https://www.npmjs.com/package/@svgr/webpack) | `@svgr/webpack` | Access use svg as a component                                                                                |
+| [SwiperJS](https://swiperjs.com/react)                      | `swiperjs`      | Simplify the creation of functional and reusable carousel components with stunning effects and functionality |
+| [React Modal](https://www.npmjs.com/package/react-modal)    | `react-modal`   | Accessible modal dialog component for React.JS                                                               |
+| [GSAP](https://gsap.com/docs/v3/)                           | `gsap`          | GSAP allows you to effortlessly animate anything JS can touch.                                               |
+| [React Media](https://www.npmjs.com/package/react-media)    | `react-media`   | Aa CSS media query component for React.                                                                      |
 
 ## Getting Started
 
-First, run the development server:
+To get started with this starter template, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Clone this repository to your local machine:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Copy code
+`git clone https://github.com/ericgo6969/arenacheb.cz.git`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Navigate to the project directory:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Copy code
+`cd arenacheb.cz`
 
-## Learn More
+### Install dependencies using npm or yarn:
 
-To learn more about Next.js, take a look at the following resources:
+Copy code
+`npm install` or `yarn install`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Start the development server:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Copy code
+`npm run dev` or `yarn dev`
 
-## Deploy on Vercel
+Open your browser and navigate to `http://localhost:3000` to see the starter template in action.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Alt text](/screenshot.png "Optional title")
